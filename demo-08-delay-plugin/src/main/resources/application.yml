@@ -1,0 +1,17 @@
+server:
+  port: 9999
+
+spring:
+  application:
+    name: delay-learn1
+
+  rabbitmq:
+    host: 192.168.18.131
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode #虚拟主机
+
+my:
+  exchangeName: exchange.delay.4 #交换机
+  queueDelayName: queue.delay.4 #正常队列

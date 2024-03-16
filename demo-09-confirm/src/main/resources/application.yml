@@ -1,0 +1,18 @@
+server:
+  port: 9999
+
+spring:
+  application:
+    name: delay-learn1
+
+  rabbitmq:
+    host: 192.168.18.131
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode #虚拟主机
+    publisher-confirm-type: correlated #开启生产者的确认模式，设置关联模式
+
+my:
+  exchangeName: exchange.confirm.1 #交换机
+  queueName: queue.confirm.1 #正常队列

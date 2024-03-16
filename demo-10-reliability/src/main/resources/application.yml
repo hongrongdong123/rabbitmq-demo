@@ -1,0 +1,25 @@
+server:
+  port: 9999
+
+spring:
+  application:
+    name: reliability
+
+  rabbitmq:
+    host: 192.168.18.131
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode
+    publisher-confirm-type: correlated #confirm确认模式
+    publisher-returns: true            #return模式
+    listener:
+      simple:
+        acknowledge-mode: manual #开启手动确认
+
+
+my:
+  exchangeNormalName : exchange.reliability
+  queueNormalName: queue.reliability
+  exchangeAlternateName: exchange.reliability.alternate
+  queueAlternateName: queue.reliability.alternate

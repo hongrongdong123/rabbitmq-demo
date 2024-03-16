@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/demo-01-sendmsg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-01-sendmsg/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-02-receivemsg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-02-receivemsg/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-03-direct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-03-direct/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-04-topic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-04-topic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-05-headers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-05-headers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-06-ttl01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-06-ttl01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-consumer_not_confirm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-consumer_not_confirm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-maxlen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-maxlen/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-receiver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-receiver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-receiver_refuse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx-receiver_refuse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-dlx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-08-delay-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-08-delay-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-08-delay1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-08-delay1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-09-confirm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-09-confirm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-09-return/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-09-return/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-10-reliability/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-10-reliability/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-11-idempotent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-11-idempotent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+server:
+  port: 9999
+
+spring:
+  application:
+    name: fanout-learn
+
+  rabbitmq:
+    host: 192.168.18.131
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: powernode #虚拟主机
